@@ -4,7 +4,7 @@
 - <b>Model-View-Controller Database</b>
   - [Interacting with a MySQL database on an Apache server](https://github.com/addydr/ApacheDatabase)
 - <b>Python Projects</b>
-  - [Image Analysis Middleware](https://github.com/addydr/DaskDataset)
+  - [Parallel Processing large dataset with Dask](https://github.com/addydr/DaskDataset)
 
 <h2> 🤳 Connect with me:</h2>
 
