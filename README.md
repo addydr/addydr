@@ -5,6 +5,7 @@
   - [Interacting with a MySQL database on an Apache server](https://github.com/addydr/ApacheDatabase)
 - <b>Python Projects</b>
   - [Parallel Processing large dataset with Dask](https://github.com/addydr/DaskDataset)
+  - [Computing Future Values using Threads with Events](https://github.com/addydr/ThreadsWithEvents)
 - <b>Data Structures and Algorithms</b>
 
 <h2> 🤳 Connect with me:</h2>
