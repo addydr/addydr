@@ -3,10 +3,11 @@
 
 - <b>Model-View-Controller Database</b>
   - [Interacting with a MySQL database on an Apache server](https://github.com/addydr/ApacheDatabase)
+- <b>MongoDB</b>
+  - [Transaction Analyzer with MongoDB](https://github.com/addydr/mongodb-transaction-analyzer)
 - <b>Python Projects</b>
   - [Parallel Processing large dataset with Dask](https://github.com/addydr/DaskDataset)
   - [Computing Future Values using Threads with Events](https://github.com/addydr/ThreadsWithEvents)
-- <b>Data Structures and Algorithms</b>
 
 ## 🧰 Languages and Tools
 
